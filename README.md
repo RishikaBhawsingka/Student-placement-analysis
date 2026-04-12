@@ -1,15 +1,15 @@
 # Student-placement-analysis
 
-📌 Project Overview
+📌 Project Overview:
 This project focuses on analyzing factors influencing student placement outcomes using Tableau. With a pre-cleaned dataset, the emphasis was on building insightful visualizations and presenting them through a story-driven dashboard.
 
 🎯 Objective
 To identify key factors affecting student placements and present data-driven insights using interactive visualizations.
 
-🛠️ Tools Used
+🛠️ Tools Used:
 Tableau
 
-📊 Dashboard & Story
+📊 Dashboard & Story:
 Developed an interactive Tableau dashboard
 Created a story layout to explain insights step-by-step
 Visualizations included:
@@ -20,7 +20,7 @@ Category-wise and demographic analysis
 
 📌 dashboards and story files are included in this repository.
 
-🔍 Key Insights
+🔍 Key Insights:
 Academic performance plays a significant role in placement outcomes
 Certain factors strongly influence placement probability
 Clear patterns observed in salary distribution among placed students
